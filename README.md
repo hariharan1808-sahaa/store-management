@@ -1,3 +1,4 @@
+Store Management Video Link : https://drive.google.com/file/d/1e-C2gZAA1-ZlqhYMlIerIpoQYGnYW0Np/view?usp=drivesdk
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
